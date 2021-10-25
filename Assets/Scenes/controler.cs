@@ -7,7 +7,7 @@ public class controler : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        Debug.Log("Hello Boss");
     }
 
     // Update is called once per frame
